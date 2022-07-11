@@ -16,7 +16,7 @@ class LoginController {
         let response = LoginResponse (
             result: 1,
             user: User (
-                idUser: 12345,
+                idUser: 123000,
                 userLogin: "GeekBrains",
                 userName: "John",
                 userLastname: "Doe"
